@@ -1,24 +1,32 @@
 ### Olá, eu sou Eduardo Mercio 👋
 
-Especialista em **Quality Assurance (QA)** com mais de 16 anos de experiência em automação de testes, validação de APIs, engenharia de performance e garantia de qualidade de software. Atualmente, expandindo horizontes com graduação em **Ciência de Dados**.
+Profissional com mais de **22 anos de experiência em Tecnologia da Informação**, sendo **16 anos dedicados exclusivamente à Engenharia e Qualidade de Software (QA)**. Atuação consolidada no ecossistema financeiro e em diversos segmentos de mercado, liderando estratégias de testes funcionais, automação e validação de sistemas críticos em ambientes tradicionais e ágeis.
+
+Sólida vivência na implementação de estratégias de **Shift-Left Testing**, atuando fortemente como ponte entre Produto (PO), Arquitetura e Engenharia para garantir a entrega de software resiliente, escalável e alinhado aos objetivos de negócio.
 
 ---
 
-### 💻 Stack Tecnológica & Ferramentas
-* **Linguagens:** Java, SQL
-* **Automação de Testes:** Selenium WebDriver, Rest Assured, JUnit 5, Appium, BrowserStack
-* **Performance & Dados:** Apache JMeter, Python/Pandas (Data Science)
-* **CI/CD & Ferramentas:** Git, GitHub Actions, GitLab CI, Postman, Jira, Confluence
-* **Bancos de Dados:** PostgreSQL, Oracle, MongoDB
+### 💡 Principais Competências & Atuação
+
+* **Estratégia & Gestão de Testes:** Análise de riscos, estimativas, planejamento e design de testes para ciclos de Sprints; definição de critérios de aceite e acompanhamento de métricas de qualidade.
+* **Causa-Raiz & Observabilidade:** Análise aprofundada de logs, identificação de causa-raiz de defeitos complexos e monitoramento de ambientes de teste/produção via dashboards de observabilidade.
+* **Qualidade Técnica:** Validação rigorosa em arquiteturas baseadas em microsserviços, mensageria assíncrona, testes de API e automação de regressivos para aceleração de esteiras CI/CD.
 
 ---
 
-### 🚀 Principais Projetos em Destaque
-* **[Desafio Técnico Sênior QA](https://github.com/DSmercio/desafio-tecnico-qa):** Repositório unificado de arquitetura Monorepo estruturado em Maven contendo automação de API (DummyJSON), E2E Web (SwagLabs), script validador de e-mails, testes de carga em linha de comando (Apache JMeter) e modelagem BDD avançada.
+### 🛠️ Stack Técnica & Ferramentas
+
+* **Metodologias & Conceitos:** BDD (Behavior Driven Development), Scrum, Kanban, Lean, Shift-Left Testing, Testes Funcionais, Exploratórios, Regressivos, Testes de Integração e Manutenção.
+* **Linguagens & Automação:** Java, Rest Assured, Selenium WebDriver.
+* **APIs & Mensageria:** Postman, Bruno, Kafka, Offset Explorer.
+* **Observabilidade & Debug:** Grafana, Dev Console, Análise de Logs.
+* **Gestão de Testes & Projetos:** Jira, Zephyr Scale, Traceability.
+* **Bancos de Dados:** SQL (Oracle SQL Developer) e NoSQL (MongoDB Compass, NoSQLBooster).
+* **Versionamento & CI/CD:** Git, GitHub, GitLab, Jenkins, VSCode, IntelliJ IDEA.
+* **Execução Multiplataforma:** BrowserStack, Android Studio.
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DSmercio&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</p>
+### 🚀 Projeto em Destaque
+
+* **[Desafio Técnico QA (Monorepo)](https://github.com/DSmercio/desafio-tecnico-qa):** Arquitetura unificada em Maven contemplando testes automatizados de API (Rest Assured), automação E2E Web (Selenium WebDriver), script utilitário de validação de dados, testes de performance via CLI (Apache JMeter) e modelagem BDD.
