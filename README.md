@@ -1,4 +1,4 @@
-### Olá, eu sou Eduardo da Silva Mercio 👋
+### Olá, eu sou Eduardo Mercio 👋
 
 Especialista em **Quality Assurance (QA)** com mais de 16 anos de experiência em automação de testes, validação de APIs, engenharia de performance e garantia de qualidade de software. Atualmente, expandindo horizontes com graduação em **Ciência de Dados**.
 
